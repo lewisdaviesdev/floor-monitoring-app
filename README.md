@@ -25,3 +25,4 @@
 * Search has ability to limit top table by county
 * No prerequisites/dependencies, wanted to keep it simple
 * Well commented and structed code
+* Used one of my favourite bootstrap themes, I think it show cases the app well and has tonnes of scalability

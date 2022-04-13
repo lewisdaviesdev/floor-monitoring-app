@@ -19,8 +19,6 @@
 * Github: [@devlewlew](https://github.com/devlewlew)
 
 ## Project Details
-
-* Save project to C drive/Documents and open index.html (homepage)
 * Bottom table will show any live floods
 * Search has ability to limit top table by county
 * No prerequisites/dependencies, wanted to keep it simple

@@ -3,9 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/devlewlew/floor-monitoring-app/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
     <img alt="platform" src="https://img.shields.io/badge/bootstrap-v5.0.2-blue" />
     <img alt="platform" src="https://img.shields.io/badge/jQuery-v3.6.0-blue" />
-  </a>
 </p>
 
 > Utilising the environment flood monitoring API, to display relevant flood warnings
@@ -18,9 +18,10 @@
 
 * Github: [@devlewlew](https://github.com/devlewlew)
 
-## Show your support
+## Project Details
 
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+* Save project to C drive/Documents and open index.html (homepage)
+* Bottom table will show any live floods
+* Search has ability to limit top table by county
+* No prerequisites/dependencies, wanted to keep it simple
+* Well commented and structed code

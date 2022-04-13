@@ -1,0 +1,85 @@
+
+/*# sourceMappingURL=user.min.css.map */
+.theme-wizard .nav-item .order-progress.active .nav-item-circle{background-color:#00d27a!important;border-color:#00d27a;}.orderRow:nth-child(even) {background:rgb(249, 250, 253)}
+.mob-heading{font-weight:bold;}
+.message{position: fixed;top: 5%;left: 0;width: 100%; z-index: 10000}
+.bg-sus{/*background-image: url('../img/sustainable-reading/bg.png'); background-size: auto 100%;background-repeat: repeat-x;*/background-color: #0D330D;} .text-sus{color:#0D330D}
+.hvrPencil:hover{color:rgb(97, 10, 10);}
+.hvrGlobe:hover{color:green;}
+.hvrFile:hover{color:red;}
+
+.spine-width-value-wrap {
+    background-color: #546776;
+    color: #ffffff;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: 1em;
+    font-size: 0.875rem;
+    padding: 0.3125rem 0.9375rem;
+    min-width: 11.25rem;
+    text-align: center;
+}
+.spine-width-value-wrap:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border: 8px solid transparent;
+    border-bottom-color: #546776;
+    border-top: 0;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+/* For small screen */
+.striped :nth-child(even) .row{
+    background-color: #f9fafd;
+}
+.striped .row {
+    border-bottom: #EDF2F9 1px solid;
+}
+
+.radio-select .form-check-input:checked + .form-check-label .radio-select-content {
+    box-shadow: 0px 0px 5px rgb(156, 156, 156);
+}
+  
+
+.icon-holder {
+    left: 50%;
+    top: -5em;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
+.shelf-holder {
+    width: 100%;
+    top: -2.3em;
+    z-index: -1;
+}
+
+.topImageSpacer {
+    display: block;
+    margin-bottom: 5em;
+}
+.bottomImageSpacer {
+    display: block;
+    margin-bottom: 8em;
+}
+
+.icon-holder{
+    width: 4em;
+    padding: 0.3em;
+    height:auto;
+    left: 50%;
+    top: -2em;
+    background: white;
+    border-radius: 50%;
+}
+

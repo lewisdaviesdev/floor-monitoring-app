@@ -3,6 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/devlewlew/floor-monitoring-app/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="platform" src="https://img.shields.io/badge/bootstrap-v5.0.2-blue" />
+    <img alt="platform" src="https://img.shields.io/badge/jQuery-v3.6.0-blue" />
   </a>
 </p>
 

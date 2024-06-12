@@ -16,7 +16,7 @@
 
 👤 **Lewis Davies**
 
-* Github: [@devlewlew](https://github.com/devlewlew)
+* Github: [@lewisdaviesdev](https://github.com/lewisdaviesdev)
 
 ## Project Details
 * Please extract and save project to local storage/git clone before use
